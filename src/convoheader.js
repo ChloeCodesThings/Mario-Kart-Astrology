@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { Avatar, Balloon } from 'nes-react'
-import vintageimage from './vintagemsftsmall.png'
 
 export default class Character extends Component {
     render() {
@@ -15,18 +14,15 @@ export default class Character extends Component {
             <Balloon fromLeft style={{ maxWidth: '76%' }}>
                 {this.props.text}
             </Balloon>
-            <div align="right">
-                <Balloon fromRight style={{ maxWidth: '45%' }}>
-                    {this.props.faceapidata}
-                </Balloon>
-                <img src={vintageimage}
-                    large
-                    style={{
-                    marginLeft: '10px',
-                    }}
-                />
-            </div>    
-
+            <Balloon fromRight style={{ maxWidth: '45%' }}>
+            {this.props.faceapidata}
+            </Balloon>
+            <Avatar src={this.props.msftvintage}
+                large
+                style={{
+                    marginLeft: '10px'
+                }}
+            />
         </section>
     }
 }
