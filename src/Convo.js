@@ -4,7 +4,7 @@ import { Balloon } from 'nes-react'
 export default class Convo extends Component {
     render() {
         return <section style={{ marginBottom: '10px' }}>
-             <Balloon fromRight style={{ maxWidth: '45%' }}>
+             <Balloon fromRight style={{ maxWidth: '45%', margin: '10px' }}>
                 {this.props.mariochat}
             </Balloon>
             <Balloon fromLeft style={{ maxWidth: '45%' }}>
