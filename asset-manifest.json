@@ -1,13 +1,14 @@
 {
-  "main.css": "/Mario-Kart-Astrology/static/css/main.8e312d98.chunk.css",
-  "main.js": "/Mario-Kart-Astrology/static/js/main.0fd85875.chunk.js",
-  "main.js.map": "/Mario-Kart-Astrology/static/js/main.0fd85875.chunk.js.map",
+  "main.css": "/Mario-Kart-Astrology/static/css/main.117764d5.chunk.css",
+  "main.js": "/Mario-Kart-Astrology/static/js/main.351fee6a.chunk.js",
+  "main.js.map": "/Mario-Kart-Astrology/static/js/main.351fee6a.chunk.js.map",
   "runtime~main.js": "/Mario-Kart-Astrology/static/js/runtime~main.3434a78e.js",
   "runtime~main.js.map": "/Mario-Kart-Astrology/static/js/runtime~main.3434a78e.js.map",
-  "static/js/2.e6b303aa.chunk.js": "/Mario-Kart-Astrology/static/js/2.e6b303aa.chunk.js",
-  "static/js/2.e6b303aa.chunk.js.map": "/Mario-Kart-Astrology/static/js/2.e6b303aa.chunk.js.map",
+  "static/js/2.2a11ec1a.chunk.js": "/Mario-Kart-Astrology/static/js/2.2a11ec1a.chunk.js",
+  "static/js/2.2a11ec1a.chunk.js.map": "/Mario-Kart-Astrology/static/js/2.2a11ec1a.chunk.js.map",
   "index.html": "/Mario-Kart-Astrology/index.html",
-  "precache-manifest.564a17b9c74480fce3152f154dfeec45.js": "/Mario-Kart-Astrology/precache-manifest.564a17b9c74480fce3152f154dfeec45.js",
+  "precache-manifest.d076ef531e6d8951098eb76e9349a9df.js": "/Mario-Kart-Astrology/precache-manifest.d076ef531e6d8951098eb76e9349a9df.js",
   "service-worker.js": "/Mario-Kart-Astrology/service-worker.js",
-  "static/css/main.8e312d98.chunk.css.map": "/Mario-Kart-Astrology/static/css/main.8e312d98.chunk.css.map"
+  "static/css/main.117764d5.chunk.css.map": "/Mario-Kart-Astrology/static/css/main.117764d5.chunk.css.map",
+  "static/media/vintagemsftsmall.png": "/Mario-Kart-Astrology/static/media/vintagemsftsmall.aa9f5adf.png"
 }
