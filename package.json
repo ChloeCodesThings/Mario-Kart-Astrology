@@ -1,9 +1,10 @@
 {
   "name": "mario-kart-astrology",
-  "homepage": "https://StephenRadachy.github.io/Mario-Kart-Astrology/",
+  "homepage": "https://chloecodesthings.github.io/Mario-Kart-Astrology/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "nes-react": "^1.0.2",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
