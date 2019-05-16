@@ -14,7 +14,7 @@ export default class App extends Component {
       padding: '10px'
     }}>
       <center>
-        <h1>Mario Kart Astrology <a href='https://github.com/StephenRadachy/Mario-Kart-Astrology' ></a></h1>
+        <h1>Mario Kart Astrology</h1>
         <Icon icon='star' /><ControllerIcon controller='snes'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes-jp'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes-jp'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes-jp'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes-jp'></ControllerIcon><Icon icon='star' />
         <h4>"Your chosen Mario Kart player says WAY more than a zodiac sign does" - <a href='https://twitter.com/ChloeCondon/status/1108738908999700480' target='_blank' rel='noopener noreferrer'>@ChloeCondon</a></h4>     
         <Icon icon='star' /><ControllerIcon controller='snes'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes-jp'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes-jp'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes-jp'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes'></ControllerIcon><Icon icon='star' /><ControllerIcon controller='snes-jp'></ControllerIcon><Icon icon='star' />

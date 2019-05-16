@@ -9,37 +9,37 @@
 	{
 		"name": "Baby Luigi",
 		"image": "https://www.mariowiki.com/images/thumb/a/aa/MK8_BabyLuigi_Icon.png/64px-MK8_BabyLuigi_Icon.png",
-		"text": "Some example text",
+		"text": "You're a happy baby, who is constantly surprised by life (and banana peels).",
 		"msftvintage": "https://png2.kisspng.com/sh/0b0bacc4f6ba0393ae8e576f890df0df/L0KzQYm3U8I1N51xj5H0aYP2gLBuTgdqdpV0jAU2OUWwfbrqkv90d5d5Rd54Z3Awh7r1hP94e142RaI2d3nxdLFAk71td5h0i58AYXK6QYqCUfViapM5TJCAOES4Qoi7VsE2OmIATKs5N0O8RoK8TwBvbz==/kisspng-windows-95-microsoft-logo-windows-1-0-windows-logos-5ab71991eabb44.5845274615219490739615.png",
-		"faceapidata": "TEST TEST TEST TEST"
+		"faceapidata": "sadness: 0.0, neutral: 0.0, contempt: 0.0, disgust: 0.0, anger: 0.0, surprise: 0.047, fear: 0.0, happiness: 0.953"
 	},
 	{
 		"name": "Baby Mario",
 		"image": "https://www.mariowiki.com/images/thumb/d/d2/MK8_BabyMario_Icon.png/64px-MK8_BabyMario_Icon.png",
-		"text": "You're a baby, so you're pretty chill, but you've been known to get emotional sometimes",
+		"text": "You're a baby, so you're pretty chill, but you've been known to get emotional sometimes.",
 		"msftvintage": "https://png2.kisspng.com/sh/0b0bacc4f6ba0393ae8e576f890df0df/L0KzQYm3U8I1N51xj5H0aYP2gLBuTgdqdpV0jAU2OUWwfbrqkv90d5d5Rd54Z3Awh7r1hP94e142RaI2d3nxdLFAk71td5h0i58AYXK6QYqCUfViapM5TJCAOES4Qoi7VsE2OmIATKs5N0O8RoK8TwBvbz==/kisspng-windows-95-microsoft-logo-windows-1-0-windows-logos-5ab71991eabb44.5845274615219490739615.png",
 		"faceapidata": "sadness: 0.044, \n neutral: 0.948, contempt: 0.0, disgust: 0.0, \r anger: 0.0, surprise: 0.007, fear: 0.0, happiness: 0.001"
 	},
 	{
 		"name": "Baby Peach",
 		"image": "https://www.mariowiki.com/images/thumb/3/3d/MK8_BabyPeach_Icon.png/64px-MK8_BabyPeach_Icon.png",
-		"text": "Some example text",
+		"text": "You're a happy lil baby! You love to spread joy, and are happy in 1st place or last!",
 		"msftvintage": "https://png2.kisspng.com/sh/0b0bacc4f6ba0393ae8e576f890df0df/L0KzQYm3U8I1N51xj5H0aYP2gLBuTgdqdpV0jAU2OUWwfbrqkv90d5d5Rd54Z3Awh7r1hP94e142RaI2d3nxdLFAk71td5h0i58AYXK6QYqCUfViapM5TJCAOES4Qoi7VsE2OmIATKs5N0O8RoK8TwBvbz==/kisspng-windows-95-microsoft-logo-windows-1-0-windows-logos-5ab71991eabb44.5845274615219490739615.png",
-		"faceapidata": "TEST TEST TEST TEST"
+		"faceapidata": "sadness: 0.0, neutral: 0.0, contempt: 0.0, disgust: 0.0, anger: 0.0, surprise: 0.0, fear: 0.0, happiness: 1.0"
 	},
 	{
 		"name": "Baby Rosalina",
 		"image": "https://www.mariowiki.com/images/thumb/0/09/MK8_BabyRosalina_Icon.png/64px-MK8_BabyRosalina_Icon.png",
-		"text": "Some example text",
+		"text": "You are mostly a happy baby, but you have your emotional moments.",
 		"msftvintage": "https://png2.kisspng.com/sh/0b0bacc4f6ba0393ae8e576f890df0df/L0KzQYm3U8I1N51xj5H0aYP2gLBuTgdqdpV0jAU2OUWwfbrqkv90d5d5Rd54Z3Awh7r1hP94e142RaI2d3nxdLFAk71td5h0i58AYXK6QYqCUfViapM5TJCAOES4Qoi7VsE2OmIATKs5N0O8RoK8TwBvbz==/kisspng-windows-95-microsoft-logo-windows-1-0-windows-logos-5ab71991eabb44.5845274615219490739615.png",
-		"faceapidata": "TEST TEST TEST TEST"
+		"faceapidata": "sadness: 0.028, neutral: 0.03, contempt: 0.001, disgust: 0.001, anger: 0.006, surprise: 0.002, fear: 0.002, happiness: 0.931"
 	},
 	{
 		"name": "Bowser",
 		"image": "https://www.mariowiki.com/images/thumb/4/47/MK8_Bowser_Icon.png/64px-MK8_Bowser_Icon.png",
-		"text": "Some example text",
+		"text": "You've got some major anger issues, and are disgusted by your enemies (but it kinda makes you happy to see them lose).",
 		"msftvintage": "https://png2.kisspng.com/sh/0b0bacc4f6ba0393ae8e576f890df0df/L0KzQYm3U8I1N51xj5H0aYP2gLBuTgdqdpV0jAU2OUWwfbrqkv90d5d5Rd54Z3Awh7r1hP94e142RaI2d3nxdLFAk71td5h0i58AYXK6QYqCUfViapM5TJCAOES4Qoi7VsE2OmIATKs5N0O8RoK8TwBvbz==/kisspng-windows-95-microsoft-logo-windows-1-0-windows-logos-5ab71991eabb44.5845274615219490739615.png",
-		"faceapidata": "TEST TEST TEST TEST"
+		"faceapidata": "sadness: 0.0, neutral: 0.0, contempt: 0.003, disgust: 0.505, anger: 0.446, surprise: 0.004, fear: 0.0, happiness: 0.041"
 	},
 	{
 		"name": "Bowser Jr.",
