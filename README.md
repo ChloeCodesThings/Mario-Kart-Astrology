@@ -6,6 +6,15 @@
 ##### This project is a fork from Stephen [@StephenRadachy](https://twitter.com/StephenRadachy) based on [a tweet thread](https://twitter.com/ChloeCondon/status/1108738908999700480) from March of 2019.
 Please check out [my blog post](https://medium.com/@chloecondon/using-the-microsoft-face-api-to-create-mario-kart-astrology-9a187cec4f35) for more details on why and how this was made.
 
+This project uses the Microsoft Azure [Face API](https://docs.microsoft.com/en-us/azure/cognitive-services/face/?WT.mc_id=mariokartastrology-github-chcondon) to detect emotions from images. If you’re looking for a quick summary and overview on the Face API, I recommend starting [here](https://docs.microsoft.com/en-us/azure/cognitive-services/face/?WT.mc_id=mariokartastrology-github-chcondon) with our documentation, or taking 5 minutes to [complete a Quickstart Tutorial](https://docs.microsoft.com/en-us/azure/cognitive-services/face/), so you have some context on how to use the API and are familiar with the process of [deploying a React App to GitHub pages](https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d).
+
+
+🍄⭐️🏁 If you want to skip ahead and see what your Mario Kart player says about you, go to the GitHub Page here: [https://chloecodesthings.github.io/Mario-Kart-Astrology/](https://chloecodesthings.github.io/Mario-Kart-Astrology/) 🏁⭐️🍄
+
+Happy learning!
+
+-Chloe
+
 
 ## Dev Setup
 
