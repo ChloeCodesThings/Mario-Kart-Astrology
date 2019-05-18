@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Mario-Kart-Astrology/precache-manifest.d076ef531e6d8951098eb76e9349a9df.js"
+  "/Mario-Kart-Astrology/precache-manifest.9e92655bdfc2f43d3138b110b5dcf7be.js"
 );
 
 workbox.clientsClaim();
