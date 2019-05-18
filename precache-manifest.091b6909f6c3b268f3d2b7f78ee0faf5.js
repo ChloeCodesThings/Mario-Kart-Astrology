@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/Mario-Kart-Astrology/static/js/runtime~main.3434a78e.js"
   },
   {
-    "revision": "3c08c9742ae0319b6698",
-    "url": "/Mario-Kart-Astrology/static/js/main.28233c87.chunk.js"
+    "revision": "197fde322ed98e03e14d",
+    "url": "/Mario-Kart-Astrology/static/js/main.cfa3fa53.chunk.js"
   },
   {
     "revision": "c857fc3d3dd47574b006",
     "url": "/Mario-Kart-Astrology/static/js/2.2a11ec1a.chunk.js"
   },
   {
-    "revision": "3c08c9742ae0319b6698",
+    "revision": "197fde322ed98e03e14d",
     "url": "/Mario-Kart-Astrology/static/css/main.117764d5.chunk.css"
   },
   {
-    "revision": "873607c03d689782249e017f65a65fdf",
+    "revision": "a3e647ff56d3ad6c95b10683831dca7a",
     "url": "/Mario-Kart-Astrology/index.html"
   }
 ];
